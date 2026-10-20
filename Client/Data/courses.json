@@ -1,0 +1,26 @@
+[
+  {
+    "courseNumber": "10",
+    "title": "Matte",
+    "length": 52,
+    "startDate": "2026-10-19T00:00:00",
+    "endDate": "2027-10-19T00:00:00",
+    "courseType": 0
+  },
+  {
+    "courseNumber": "11",
+    "title": "Biologi",
+    "length": 52,
+    "startDate": "2026-10-20T00:00:00",
+    "endDate": "2027-10-20T00:00:00",
+    "courseType": 0
+  },
+  {
+    "courseNumber": "12",
+    "title": "Fysik",
+    "length": 52,
+    "startDate": "2026-10-20T00:00:00",
+    "endDate": "2027-10-20T00:00:00",
+    "courseType": 1
+  }
+]
