@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jamme\\onedrive\\Documents\\iths\\WC_Education\\client\\Client.csproj": {}
+    "C:\\Users\\jamme\\onedrive\\documents\\iths\\WC_Education\\client\\Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jamme\\onedrive\\Documents\\iths\\WC_Education\\client\\Client.csproj": {
+    "C:\\Users\\jamme\\onedrive\\documents\\iths\\WC_Education\\client\\Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jamme\\onedrive\\Documents\\iths\\WC_Education\\client\\Client.csproj",
+        "projectUniqueName": "C:\\Users\\jamme\\onedrive\\documents\\iths\\WC_Education\\client\\Client.csproj",
         "projectName": "Client",
-        "projectPath": "C:\\Users\\jamme\\onedrive\\Documents\\iths\\WC_Education\\client\\Client.csproj",
+        "projectPath": "C:\\Users\\jamme\\onedrive\\documents\\iths\\WC_Education\\client\\Client.csproj",
         "packagesPath": "C:\\Users\\jamme\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jamme\\onedrive\\Documents\\iths\\WC_Education\\client\\obj\\",
+        "outputPath": "C:\\Users\\jamme\\onedrive\\documents\\iths\\WC_Education\\client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jamme\\AppData\\Roaming\\NuGet\\NuGet.Config"

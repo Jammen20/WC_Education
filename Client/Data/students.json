@@ -7,5 +7,14 @@
     "addressLine": "Framvägen 1",
     "postalCode": "111 22",
     "city": "Där"
+  },
+  {
+    "firstName": "",
+    "surName": "",
+    "phone": "",
+    "personNmr": "",
+    "addressLine": "",
+    "postalCode": "",
+    "city": ""
   }
 ]

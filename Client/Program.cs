@@ -46,6 +46,9 @@ namespace Client
                         {
                             Console.WriteLine(currentCourse);
                         }
+                        Console.WriteLine("\n Tryck Enter för att fortsätta...");
+                        Console.ReadLine();
+                        Console.Clear();
                         break;
                     case "2":
                         Console.Write("Kursnummer: ");
@@ -54,6 +57,7 @@ namespace Client
                         Console.Write("Titel: ");
                         string title = Console.ReadLine()!;
 
+                        //Program kraschar vid fel inmatning. Borde fixas 
                         Console.Write("Längd: ");
                         int length = int.Parse(Console.ReadLine()!);
 
@@ -93,6 +97,9 @@ namespace Client
                         courseStorage.Write(coursesPath, courses);
 
                         Console.WriteLine("Kurs sparad!");
+                        Console.WriteLine("\n Tryck Enter för att fortsätta...");
+                        Console.ReadLine();
+                        Console.Clear();
                         break;
 
                     case "3":
@@ -105,6 +112,9 @@ namespace Client
                         {
                             Console.WriteLine(currentStudent);
                         }
+                        Console.WriteLine("\n Tryck Enter för att fortsätta...");
+                        Console.ReadLine();
+                        Console.Clear();
                         break;
 
                     case "4":
@@ -145,6 +155,9 @@ namespace Client
                         storage.Write(studentsPath, students);
 
                         Console.WriteLine("Student sparad!");
+                        Console.WriteLine("\n Tryck Enter för att fortsätta...");
+                        Console.ReadLine();
+                        Console.Clear();
 
                         break;
 
